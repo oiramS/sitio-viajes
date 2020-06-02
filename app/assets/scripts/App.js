@@ -1,1 +1,1 @@
-alert("Hello this is just a test");
+alert("Sitio en construcción, vuelva mas tarde :D");
