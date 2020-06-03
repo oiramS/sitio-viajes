@@ -1,1 +1,3 @@
-alert("Sitio en construcción, vuelva mas tarde :D");
+import '../styles/styles.css'
+
+//alert("Sitio en construcción, vuelva mas tarde :D");
